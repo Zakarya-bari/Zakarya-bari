@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zakarya-bari
+- 👀 I’m interested in Android development.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on mobile development industry.
+- 📫 How to reach me --> https://www.linkedin.com/in/zakaryabari
